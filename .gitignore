@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*$py.class
+*.py[cod]
+
+# Output
+*.pdf
+
+# Other
+*.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development
+venv/
+.env
+
+# Distribution / packaging
+dist/
+build/
+pdfzoomer.egg-info/
+
+# Other
+pdfzoomer/Lib/site-packages/
+pdfzoomer/Scripts/
+pdfzoomer/pyvenv.cfg
